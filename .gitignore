@@ -2,3 +2,7 @@
 # Created by `dart pub`
 .dart_tool/
 test.dot
+test.png
+
+find.dot
+find.png
